@@ -23,6 +23,7 @@
 body {
     background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
 	overflow-x: hidden;
+	padding: 0px 0px 100px 0px;
 }
 
 .title {
@@ -68,6 +69,10 @@ body {
 
 .title h2 > a:hover {
 	color: grey;
+}
+
+.title h5 {
+	margin-top: -25px;
 }
 
 .sub-title h3 {

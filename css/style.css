@@ -6,6 +6,7 @@
 
 body {
 	overflow-x: hidden;
+	padding: 0px 0px 100px 0px;
 }
 
 ::-webkit-scrollbar {
@@ -67,6 +68,10 @@ body {
 
 .title h2 > a:hover {
 	color: grey;
+}
+
+.title h5 {
+	margin-top: -25px;
 }
 
 .sub-title h3 {
